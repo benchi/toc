@@ -1,6 +1,6 @@
 # Argo Graduation Proposal
 
-Since joining the CNCF in April 2020 as an incubation-level project, the Argo Project has made great progress in growing the community of contributors and users including the addition of Red Hat along-side BlackRock and Codefresh as a partners in governing and running the project. On behalf of the Argo Project team, we believe that Argo is ready for graduation.
+Since joining the CNCF in April 2020 as an incubation-level project, the Argo Project has made great progress in growing the community of contributors and users including the addition of Red Hat and Codefresh along-side BlackRock as partners in governing and running the project. On behalf of the Argo Project team, we believe that Argo is ready for graduation.
 
 ## Description
 
@@ -79,8 +79,8 @@ Argo depends on the following external software components:
 * Jann Fischer (Red Hat)
 * Jesse Suen (Intuit)
 * Jonathan West (Red Hat)
-* Vaibhav Page (BlackRock)
 * Oleg Sucharevich (Codefresh)
+* Vaibhav Page (BlackRock)
 
 #### Infrastructure requests (CI / CNCF Cluster)
 
@@ -134,7 +134,7 @@ Argo is known to be actively used in production by the following organizations:
 
 #### Have committers from at least two organizations
 
-The Argo steering committee consists of members from Intuit, Red Hat, Blackrock, and Codefresh. Committers are represented from a much broader set of organizations.
+The Argo governance committee consists of members from Intuit, Red Hat, Blackrock, and Codefresh. Committers are represented from a much broader set of organizations.
 
 #### Have achieved and maintained a [Core Infrastructure Initiative Best Practices Badge](https://bestpractices.coreinfrastructure.org/)
 
