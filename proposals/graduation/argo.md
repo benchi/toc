@@ -153,8 +153,8 @@ xxx
 
 #### Have a public list of project adopters for at least the primary repo (e.g., ADOPTERS.md or logos on the project website)
 
-* https://github.com/argoproj/argo/blob/master/OWNERS
-* https://github.com/argoproj/argo-events/blob/master/OWNERS
-* https://github.com/argoproj/argo-cd/blob/master/OWNERS
-* https://github.com/argoproj/argo-rollouts/blob/master/OWNERS
+* https://github.com/argoproj/argo/blob/master/USERS.md
+* https://github.com/argoproj/argo-events/blob/master/USERS.md
+* https://github.com/argoproj/argo-cd/blob/master/USERS.md
+* https://github.com/argoproj/argo-rollouts/blob/master/USERS.md
 
